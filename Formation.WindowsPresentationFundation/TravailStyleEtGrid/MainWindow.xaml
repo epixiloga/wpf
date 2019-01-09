@@ -1,0 +1,51 @@
+﻿<Window x:Class="TravailStyleEtGrid.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TravailStyleEtGrid"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+
+        <Style TargetType="{x:Type local:MainWindow}">
+            <Setter Property="Background">
+                <Setter.Value>
+                    <ImageBrush ImageSource="pack://application:,,,/images/papyrus.jpg"/>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!--<Style TargetType="Grid">
+            <Setter Property="Background">
+                <Setter.Value>
+                    <ImageBrush ImageSource="pack://application:,,,/images/papyrus.jpg"/>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        
+        <Style x:Key="ImagedeFondStyle" TargetType="Grid">
+            <Setter Property="Height" Value="12"></Setter>
+            <Setter Property="Width" Value="50"></Setter>
+        </Style>-->
+        
+      
+    </Window.Resources>
+
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Button Grid.Column="2" Grid.Row="1" Width="100" Margin="72,66,92,83">
+                <Image Source="pack://application:,,,/images/pas.jpg"></Image>
+            </Button>
+        </Grid>
+    </Grid>
+</Window>

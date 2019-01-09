@@ -1,0 +1,15 @@
+C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresentationFundation\TravailImageWpf\bin\Debug\TravailImageWpf.exe.config
+C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresentationFundation\TravailImageWpf\bin\Debug\TravailImageWpf.exe
+C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresentationFundation\TravailImageWpf\bin\Debug\TravailImageWpf.pdb
+C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresentationFundation\TravailImageWpf\obj\Debug\TravailImageWpf.csprojAssemblyReference.cache
+C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresentationFundation\TravailImageWpf\obj\Debug\MainWindow.g.cs
+C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresentationFundation\TravailImageWpf\obj\Debug\App.g.cs
+C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresentationFundation\TravailImageWpf\obj\Debug\TravailImageWpf_MarkupCompile.cache
+C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresentationFundation\TravailImageWpf\obj\Debug\TravailImageWpf_MarkupCompile.lref
+C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresentationFundation\TravailImageWpf\obj\Debug\MainWindow.baml
+C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresentationFundation\TravailImageWpf\obj\Debug\TravailImageWpf.g.resources
+C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresentationFundation\TravailImageWpf\obj\Debug\TravailImageWpf.Properties.Resources.resources
+C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresentationFundation\TravailImageWpf\obj\Debug\TravailImageWpf.csproj.GenerateResource.cache
+C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresentationFundation\TravailImageWpf\obj\Debug\TravailImageWpf.csproj.CoreCompileInputs.cache
+C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresentationFundation\TravailImageWpf\obj\Debug\TravailImageWpf.exe
+C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresentationFundation\TravailImageWpf\obj\Debug\TravailImageWpf.pdb
