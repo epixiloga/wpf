@@ -1,0 +1,18 @@
+﻿<Window x:Class="ChangementPolice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChangementPolice"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid >
+        <Label Content="Changing the size police" HorizontalAlignment="Left" Margin="272,53,0,0" VerticalAlignment="Top" Height="38" Width="173"/>
+        <TextBox x:Name="TB_Text" HorizontalAlignment="Left" Height="44" Margin="140,122,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="128"/>
+        <TextBox x:Name="TB_Size" KeyUp="TB_Size_KeyUp"  HorizontalAlignment="Left" Height="44" Margin="336,122,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="123"/>
+        <Button Content="Change the size" HorizontalAlignment="Left" Margin="514,122,0,0" VerticalAlignment="Top" Width="137" Click="Button_Click" Height="44"/>
+        <Label Content="Coucou binding" FontSize="{Binding ElementName=TB_Size, Path=Text}" HorizontalAlignment="Left" Margin="315,190,0,0" VerticalAlignment="Top" Width="167" Height="54"/>
+
+    </Grid>
+</Window>

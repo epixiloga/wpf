@@ -1,0 +1,15 @@
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouverteBinding\bin\Debug\DecouverteBinding.exe.config
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouverteBinding\bin\Debug\DecouverteBinding.exe
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouverteBinding\bin\Debug\DecouverteBinding.pdb
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouverteBinding\obj\Debug\DecouverteBinding.csprojAssemblyReference.cache
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouverteBinding\obj\Debug\MainWindow.g.cs
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouverteBinding\obj\Debug\App.g.cs
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouverteBinding\obj\Debug\DecouverteBinding_MarkupCompile.cache
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouverteBinding\obj\Debug\DecouverteBinding_MarkupCompile.lref
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouverteBinding\obj\Debug\MainWindow.baml
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouverteBinding\obj\Debug\DecouverteBinding.g.resources
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouverteBinding\obj\Debug\DecouverteBinding.Properties.Resources.resources
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouverteBinding\obj\Debug\DecouverteBinding.csproj.GenerateResource.cache
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouverteBinding\obj\Debug\DecouverteBinding.csproj.CoreCompileInputs.cache
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouverteBinding\obj\Debug\DecouverteBinding.exe
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouverteBinding\obj\Debug\DecouverteBinding.pdb

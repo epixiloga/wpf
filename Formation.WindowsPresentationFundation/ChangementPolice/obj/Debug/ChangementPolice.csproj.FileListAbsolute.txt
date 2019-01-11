@@ -1,0 +1,15 @@
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\ChangementPolice\bin\Debug\ChangementPolice.exe.config
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\ChangementPolice\bin\Debug\ChangementPolice.exe
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\ChangementPolice\bin\Debug\ChangementPolice.pdb
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\ChangementPolice\obj\Debug\ChangementPolice.csprojAssemblyReference.cache
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\ChangementPolice\obj\Debug\MainWindow.g.cs
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\ChangementPolice\obj\Debug\App.g.cs
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\ChangementPolice\obj\Debug\ChangementPolice_MarkupCompile.cache
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\ChangementPolice\obj\Debug\ChangementPolice_MarkupCompile.lref
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\ChangementPolice\obj\Debug\MainWindow.baml
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\ChangementPolice\obj\Debug\ChangementPolice.g.resources
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\ChangementPolice\obj\Debug\ChangementPolice.Properties.Resources.resources
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\ChangementPolice\obj\Debug\ChangementPolice.csproj.GenerateResource.cache
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\ChangementPolice\obj\Debug\ChangementPolice.csproj.CoreCompileInputs.cache
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\ChangementPolice\obj\Debug\ChangementPolice.exe
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\ChangementPolice\obj\Debug\ChangementPolice.pdb

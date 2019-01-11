@@ -13,3 +13,18 @@ C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresenta
 C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresentationFundation\MonPremierProjetWpf\obj\Debug\MonPremierProjetWpf.csproj.CoreCompileInputs.cache
 C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresentationFundation\MonPremierProjetWpf\obj\Debug\MonPremierProjetWpf.exe
 C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresentationFundation\MonPremierProjetWpf\obj\Debug\MonPremierProjetWpf.pdb
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\MonPremierProjetWpf\bin\Debug\MonPremierProjetWpf.exe.config
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\MonPremierProjetWpf\bin\Debug\MonPremierProjetWpf.exe
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\MonPremierProjetWpf\bin\Debug\MonPremierProjetWpf.pdb
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\MonPremierProjetWpf\obj\Debug\MonPremierProjetWpf.csprojAssemblyReference.cache
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\MonPremierProjetWpf\obj\Debug\MainWindow.g.cs
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\MonPremierProjetWpf\obj\Debug\App.g.cs
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\MonPremierProjetWpf\obj\Debug\MonPremierProjetWpf_MarkupCompile.cache
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\MonPremierProjetWpf\obj\Debug\MonPremierProjetWpf_MarkupCompile.lref
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\MonPremierProjetWpf\obj\Debug\MainWindow.baml
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\MonPremierProjetWpf\obj\Debug\MonPremierProjetWpf.g.resources
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\MonPremierProjetWpf\obj\Debug\MonPremierProjetWpf.Properties.Resources.resources
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\MonPremierProjetWpf\obj\Debug\MonPremierProjetWpf.csproj.GenerateResource.cache
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\MonPremierProjetWpf\obj\Debug\MonPremierProjetWpf.csproj.CoreCompileInputs.cache
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\MonPremierProjetWpf\obj\Debug\MonPremierProjetWpf.exe
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\MonPremierProjetWpf\obj\Debug\MonPremierProjetWpf.pdb

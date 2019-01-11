@@ -1,0 +1,15 @@
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouvertesDataContext\bin\Debug\DecouvertesDataContext.exe.config
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouvertesDataContext\bin\Debug\DecouvertesDataContext.exe
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouvertesDataContext\bin\Debug\DecouvertesDataContext.pdb
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouvertesDataContext\obj\Debug\DecouvertesDataContext.csprojAssemblyReference.cache
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouvertesDataContext\obj\Debug\MainWindow.g.cs
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouvertesDataContext\obj\Debug\App.g.cs
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouvertesDataContext\obj\Debug\DecouvertesDataContext_MarkupCompile.cache
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouvertesDataContext\obj\Debug\DecouvertesDataContext_MarkupCompile.lref
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouvertesDataContext\obj\Debug\MainWindow.baml
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouvertesDataContext\obj\Debug\DecouvertesDataContext.g.resources
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouvertesDataContext\obj\Debug\DecouvertesDataContext.Properties.Resources.resources
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouvertesDataContext\obj\Debug\DecouvertesDataContext.csproj.GenerateResource.cache
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouvertesDataContext\obj\Debug\DecouvertesDataContext.csproj.CoreCompileInputs.cache
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouvertesDataContext\obj\Debug\DecouvertesDataContext.exe
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\DecouvertesDataContext\obj\Debug\DecouvertesDataContext.pdb

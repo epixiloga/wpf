@@ -1,0 +1,16 @@
+﻿<Controls:MetroWindow x:Class="TutoMahApps.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TutoMahApps"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        mc:Ignorable="d"
+        Title="myAppTuto" Height="450" Width="800">
+    <Grid>
+        <Label Content="I am a label" HorizontalAlignment="Left" Margin="196,53,0,0" VerticalAlignment="Top" Width="164"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="196,96,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="-0.017,-0.581"/>
+        <Button Content="I am a button" HorizontalAlignment="Left" Margin="214,142,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Controls:MetroWindow>

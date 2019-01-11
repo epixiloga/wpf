@@ -15,3 +15,29 @@ C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresenta
 C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\obj\Debug\TravailStyleEtGrid.pdb
 C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\M2iformation\Desktop\formation Typescript\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\obj\Debug\Style.baml
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\bin\Debug\TravailStyleEtGrid.exe.config
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\bin\Debug\TravailStyleEtGrid.exe
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\bin\Debug\TravailStyleEtGrid.pdb
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\obj\Debug\troisiemeTravailStyleEtGrid.csprojAssemblyReference.cache
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\obj\Debug\MainWindow.g.cs
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\obj\Debug\App.g.cs
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\obj\Debug\TravailStyleEtGrid_MarkupCompile.cache
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\obj\Debug\TravailStyleEtGrid_MarkupCompile.lref
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\obj\Debug\App.baml
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\obj\Debug\MainWindow.baml
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\obj\Debug\Style.baml
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\obj\Debug\TravailStyleEtGrid.g.resources
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\obj\Debug\TravailStyleEtGrid.Properties.Resources.resources
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\obj\Debug\troisiemeTravailStyleEtGrid.csproj.GenerateResource.cache
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\obj\Debug\troisiemeTravailStyleEtGrid.csproj.CoreCompileInputs.cache
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\obj\Debug\TravailStyleEtGrid.exe
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\obj\Debug\TravailStyleEtGrid.pdb
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\bin\Debug\ControlzEx.dll
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\bin\Debug\MahApps.Metro.dll
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\bin\Debug\ControlzEx.xml
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\bin\Debug\MahApps.Metro.pdb
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\bin\Debug\MahApps.Metro.xml
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\M2iformation\Desktop\WPF\Formation.WindowsPresentationFundation\TravailStyleEtGrid\obj\Debug\troisiemeTravailStyleEtGrid.csproj.CopyComplete
